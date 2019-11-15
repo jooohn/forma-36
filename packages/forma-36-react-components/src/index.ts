@@ -47,6 +47,7 @@ export { Illustration } from './components/Illustration/Illustration';
 export { Table } from './components/Table/Table/Table';
 export { TableBody } from './components/Table/TableBody/TableBody';
 export { TableCell } from './components/Table/TableCell/TableCell/TableCell';
+export { TableSortingLabel } from './components/Table/TableCell/TableSortingLabel/TableSortingLabel';
 export { TableHead } from './components/Table/TableHead/TableHead';
 export { TableRow } from './components/Table/TableRow/TableRow';
 export { ToggleButton } from './components/ToggleButton/ToggleButton';
